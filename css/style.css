@@ -49,7 +49,9 @@ header{
 	margin-bottom: 100px;
 	margin-top: -25px;
 }
-
+#ss{
+	color:black;
+}
 #ss:hover{
 	color:lightblue;
 }
